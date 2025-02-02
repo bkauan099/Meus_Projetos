@@ -1,24 +1,24 @@
 // 1º):
 nome = "Bruno"
-console.log(nome);
+console.log(nome)
 
 // 2º):
-idade = 25;
-altura = 1.75;
+idade = 25
+altura = 1.75
 console.log(idade, altura);
 
 // 3º):
-preco = 50;
-desconto = 0.2;
-precoDesconto = preco - (preco * desconto);
+preco = 50
+desconto = 0.2
+precoDesconto = preco - (preco * desconto)
 
-console.log(precoDesconto);
+console.log(precoDesconto)
 
 // 4º):
 temperatura = 30
 
 if (temperatura > 25){
-    console.log("Está calor!");
+    console.log("Está calor!")
 }
 else{
     console.log("Está fresco!")
